@@ -8,6 +8,8 @@ _The goal of this is to keep me motivated once i'm done with Epicodus and list o
 ## This are some of my post-epicodus plans
 * _Finish "JavaScript: Understanding the Weird Parts." to this day I have only completed 8% of the video course_
 
+* _Finish "Learning Algorithms in JavaScript from Scratch." I have only completed 19% of this exercise course_
+
 
 ### License
 *This software is licensed under the MIT license.*
