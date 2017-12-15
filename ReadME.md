@@ -3,7 +3,7 @@
 #### By _**Javier Jiménez**_
 
 ## Projects Goals
-_The goal of this is to keep me motivated once i'm done with Epicodus and list out all of the items i want to keep improving on and finish all courses I bought in Udemy_
+_The goal of this is to keep me motivated once i'm done with Epicodus and list out all of the items I want to keep improving on, and finish all courses I bought in Udemy_
 
 ## This are some of my Post-Epicodus plans
 
@@ -15,8 +15,9 @@ _The goal of this is to keep me motivated once i'm done with Epicodus and list o
 
 * _4. Complete all the exercises of "Modern React with Redux." with this course I hope to understand the so called "functional" programming_
 
-* _5. Complete all the exercises of "Modern React with Redux." with this course I hope to understand the so called "functional" programming_
+* _5. So far, I've completed 19% of this course but I want to fortify my understanding of Ruby by completing "Learn to Code with Ruby" this is another course I bought while I was learning ruby_
 
+* _6. I really want to learn Python because I could actually develop and play with SC2 deep mind environment "Starcraft 2 my favorite game." I bought another Udemy course "Complete Python Bootcamp GO from zero to hero in python", they go from the basics to fully create my own applications and game!!!_
 
 
 
