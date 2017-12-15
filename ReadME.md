@@ -17,7 +17,11 @@ _The goal of this is to keep me motivated once i'm done with Epicodus and list o
 
 * _5. So far, I've completed 19% of this course but I want to fortify my understanding of Ruby by completing "Learn to Code with Ruby" this is another course I bought while I was learning ruby_
 
-* _6. I really want to learn Python because I could actually develop and play with SC2 deep mind environment "Starcraft 2 my favorite game." I bought another Udemy course "Complete Python Bootcamp GO from zero to hero in python", they go from the basics to fully create my own applications and game!!!_
+* _6. I really want to learn Python because I could actually develop and play with SC2 deep mind environment(machine learning). Starcraft 2 is my favorite game by the way. I bought another Udemy course "Complete Python Bootcamp GO from zero to hero in python", they go from the basics to fully create my own applications and game!!!_
+
+* _7. The last course I bought and I want to finish at my own pace is GO lang. Reasons? Well, GO is as efficient as Java, C, and C++ but the language is beautiful, straight forward and concurrent, and it's the future lol."_
+
+
 
 
 
