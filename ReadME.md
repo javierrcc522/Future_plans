@@ -25,11 +25,12 @@ _The goal of this is to keep me motivated once i'm done with Epicodus and list o
 
 * _9. Keep advancing on FreeCodeCamp I want to finish all their fronted and backend. Right now I am at 227 lessons completed. I want to bring this number to at least 400._ [Freecodecamp](https://www.freecodecamp.org/javierrcc522)
 
-* _10. I want to add aesthetics to my Rails Portfolio Site and deploy it to Heroku._
+* _10. I want to add aesthetics to my Rails Portfolio Site and deploy it to Heroku, maybe some ajax._
 
-* _11. Attend Epicodus alumni meet ups._
+* _11. Attend Epicodus alumni meet ups, and actually talk to them and not just go get free pizza haha._
 
 * _12. Learn D3.js to show data in my websites._
+[Stock](http://arnauddri.github.io/d3-stock/), [Global Data](http://bl.ocks.org/dwtkns/4973620)
 
 * _13. Bring my typing skills to 60 wpm in this website._ [Typing](https://www.typing.com)
 
@@ -37,7 +38,7 @@ _The goal of this is to keep me motivated once i'm done with Epicodus and list o
 
 * _15. Writing test to my future projects so I can get used to what the real world programming development is like._
 
-* _16. Make a StackOverFlow account. Answer and ask questions there._
+* _16. Make a StackOverFlow account. Answer and ask questions there, also be descriptive._
 
 * _17. Work on open source projects at least 1 every 2 months._ [Open/Source](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
 
