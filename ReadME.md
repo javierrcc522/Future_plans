@@ -35,6 +35,21 @@ _The goal of this is to keep me motivated once i'm done with Epicodus and list o
 
 * _14. Practice personal interview questions such as: talking about myself, being more direct and give explanation after they ask a question, and better wording, even write them down on paper._
 
+* _15. Writing test to my future projects so I can get used to what the real world programming development is like._
+
+* _16. Make a StackOverFlow account. Answer and ask questions there._
+
+* _17. Work on open source projects at least 1 every 2 months._ [Open/Source](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
+
+* _18. Get really familiar with atom and its shortcuts basically not touch the mouse as much. I installed a packaged for atom that has all the shortcuts._ [Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+
+* _19. First buy the book, read the book, and take notes._ [Practical Object Oriented Design in Ruby](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330)
+
+* _20. Seek a mentor. This one is a bit tough because it takes 2 parties to make this happened. I tried in the past but no one really follow thru, All I can say is that I can also be my own mentor._
+
+
+
+
 
 
 
